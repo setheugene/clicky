@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "image": "./public/images/angry"
+  },
+  {
+    "id": "2",
+    "image": "./public/images/blowkiss"
+  },
+  {
+    "id": "3",
+    "image": "./public/images/blushedsmile"
+  },
+  {
+    "id": "4",
+    "image": "./public/images/crying"
+  },
+  {
+    "id": "5",
+    "image": "./public/images/flushed"
+  },
+  {
+    "id": "6",
+    "image": "./public/images/grimacing"
+  },
+  {
+    "id": "7",
+    "image": "./public/images/hearteyes"
+  },
+  {
+    "id": "8",
+    "image": "./public/images/nerd"
+  },
+  {
+    "id": "9",
+    "image": "./public/images/oops"
+  },
+  {
+    "id": "10",
+    "image": "./public/images/sunglasses"
+  },
+  {
+    "id": "11",
+    "image": "./public/images/surprised"
+  },
+  {
+    "id": "12",
+    "image": "./public/images/tears"
+  }
+]
