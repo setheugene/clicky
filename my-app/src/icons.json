@@ -1,50 +1,50 @@
 [
   {
     "id": "1",
-    "image": "./public/images/angry"
+    "image": "/images/angry.png"
   },
   {
     "id": "2",
-    "image": "./public/images/blowkiss"
+    "image": "/images/blowkiss.png"
   },
   {
     "id": "3",
-    "image": "./public/images/blushedsmile"
+    "image": "/images/blushedsmile.png"
   },
   {
     "id": "4",
-    "image": "./public/images/crying"
+    "image": "/images/crying.png"
   },
   {
     "id": "5",
-    "image": "./public/images/flushed"
+    "image": "/images/flushed.png"
   },
   {
     "id": "6",
-    "image": "./public/images/grimacing"
+    "image": "/images/grimacing.png"
   },
   {
     "id": "7",
-    "image": "./public/images/hearteyes"
+    "image": "/images/hearteyes.png"
   },
   {
     "id": "8",
-    "image": "./public/images/nerd"
+    "image": "/images/nerd.png"
   },
   {
     "id": "9",
-    "image": "./public/images/oops"
+    "image": "/images/oops.png"
   },
   {
     "id": "10",
-    "image": "./public/images/sunglasses"
+    "image": "/images/sunglasses.png"
   },
   {
     "id": "11",
-    "image": "./public/images/surprised"
+    "image": "/images/surprised.png"
   },
   {
     "id": "12",
-    "image": "./public/images/tears"
+    "image": "/images/tears.png"
   }
 ]
