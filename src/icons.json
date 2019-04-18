@@ -5,15 +5,15 @@
   },
   {
     "id": "2",
-    "image": "/images/blowkiss.png"
+    "image": "./images/blowkiss.png"
   },
   {
     "id": "3",
-    "image": "/images/blushedsmile.png"
+    "image": "./public/images/blushedsmile.png"
   },
   {
     "id": "4",
-    "image": "/images/crying.png"
+    "image": "/public/images/crying.png"
   },
   {
     "id": "5",
